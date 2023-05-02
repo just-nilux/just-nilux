@@ -1,5 +1,11 @@
-### Hi there 👋
+           .__.__                
+      ____ |__|  |  __ _____  ___
+     /    \|  |  | |  |  \  \/  /
+    |   |  \  |  |_|  |  />    < 
+    |___|  /__|____/____//__/\_ \
+         \/                    \/
 
+✨ Custom trading strategies, indicators and portfolio optimization ✨
 <!--
 **just-nilux/just-nilux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
