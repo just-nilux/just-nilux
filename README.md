@@ -5,7 +5,12 @@
     |___|  /__|____/____//__/\_ \
          \/                    \/
 
-✨ Custom trading strategies, indicators and portfolio optimization ✨
+Drop me a message if you are interested in...
+- Custom ML & AI Trading Strategies
+- Analytics & Portfolio Optimization
+
+🫡 Telegram @nlxtrading
+
 <!--
 **just-nilux/just-nilux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
