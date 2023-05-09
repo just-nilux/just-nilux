@@ -4,9 +4,9 @@
     |   |  \  |  |_|  |  />    < 
     |___|  /__|____/____//__/\_ \
          \/                    \/
-Crypto Trading - Since 2015
+Professional Crypto Trading Solutions
 
-Drop me a message if you are interested in...
+Drop me a message if you are interested in:
 - Custom ML & AI Trading Bots & Strategies
 - Analytics & Portfolio Optimization
 
