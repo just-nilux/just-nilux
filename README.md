@@ -4,11 +4,13 @@
     |   |  \  |  |_|  |  />    < 
     |___|  /__|____/____//__/\_ \
          \/                    \/
+Crypto Trading - Since 2015
 
 Drop me a message if you are interested in...
-- Custom ML & AI Trading Strategies
+- Custom ML & AI Trading Bots & Strategies
 - Analytics & Portfolio Optimization
 
+Let me take your trading to another level.
 🫡 Telegram @nlxtrading
 
 <!--
