@@ -11,7 +11,7 @@ Drop me a message if you are interested in:
 - Analytics & Portfolio Optimization
 
 Let me take your trading to another level.
-🫡 Telegram @nlxtrading
+🫡 [Get In Touch](https://nilux.ai/)
 
 <!--
 **just-nilux/just-nilux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
