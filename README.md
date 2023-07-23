@@ -4,26 +4,12 @@
     |   |  \  |  |_|  |  />    < 
     |___|  /__|____/____//__/\_ \
          \/                    \/
-Professional Crypto Trading Solutions
 
-Drop me a message if you are interested in:
-- Custom ML & AI Trading Bots & Strategies
-- Analytics & Portfolio Optimization
+           Since 2015
 
-Let me take your trading to another level.
-🫡 [Get In Touch](https://nilux.ai/)
+Drop me a message if you are interested in
+custom strategy and portfolio optimization.
 
-<!--
-**just-nilux/just-nilux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'll take your trading to another level!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🫡  Drop me a message: [nilux.ai](https://nilux.ai/)
