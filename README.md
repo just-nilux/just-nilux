@@ -12,4 +12,4 @@ custom strategy and portfolio optimization.
 
 I'll take your trading to another level!
 
-🫡  Drop me a message: [nilux.ai](https://nilux.ai/)
+🫡  [nilux.ai](https://nilux.ai/)
