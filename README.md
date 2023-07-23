@@ -5,11 +5,11 @@
     |___|  /__|____/____//__/\_ \
          \/                    \/
 
-           Since 2015
+           Python Engineer 
 
 Drop me a message if you are interested in
 custom strategy and portfolio optimization.
 
-I'll take your trading to another level!
+Status: Currently N/A. Wait for it.
 
 🫡  [nilux.ai](https://nilux.ai/)
