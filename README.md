@@ -7,9 +7,8 @@
 
            Python Engineer 
 
-Drop me a message if you are interested in
-custom strategy and portfolio optimization.
+Drop me a message if you are interested in freqtrade
+strategy development and portfolio optimization.
 
-Status: Currently N/A. Wait for it.
 
 🫡  [nilux.ai](https://nilux.ai/)
