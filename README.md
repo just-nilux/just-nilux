@@ -5,10 +5,10 @@
     |___|  /__|____/____//__/\_ \
          \/                    \/
 
-           Python Engineer 
+           💎 NILUX.AI
 
 Drop me a message if you are interested in freqtrade
 strategy development and portfolio optimization.
 
 
-🫡  [nilux.ai](https://nilux.ai/)
+💬  [Contact](https://nilux.ai/)
