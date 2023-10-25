@@ -7,5 +7,4 @@
 
            NILUX.AI
 
-Drop me a message if you are interested in freqtrade
-strategy development and portfolio optimization.
+Drop me a message on Telegram @niluxai
